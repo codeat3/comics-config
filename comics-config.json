@@ -1,1 +1,632 @@
-../../sites/gatherer.codeat3.co/storage/app/comics-config.json
+[
+    {
+        "title": "Adam@Home",
+        "author": "Rob Harrell",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/adamathome/1995/06/20",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Adult Children",
+        "author": "Stephen Beals",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/adult-children/2014/04/14",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Agnes",
+        "author": "Tony Cochran",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/agnes/2002/01/01",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "AJ and Magnus",
+        "author": "Bryan and Simon Steel",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/aj-and-magnus/2014/08/08",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Bad Machinery",
+        "author": "John Allison",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/bad-machinery/2016/04/11",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Barney & Clyde",
+        "author": "Gene Weingarten, Dan Weingarten & David Clark",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/barneyandclyde/2010/01/01",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Bully",
+        "author": "Andrew Paavola",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/bully/2014/05/05",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Cattitude — Doggonit",
+        "author": "Anthony Smith",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/cattitude-doggonit/2016/05/16",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Citizen Dog",
+        "author": "Mark O'Hare",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/citizendog/1995/05/15",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Dorris McComics",
+        "author": "Alex Norris",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/dorris-mccomics/2016/04/18",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Jeff Stahler",
+        "author": "",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/jeffstahler/2011/06/01",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "La Cucaracha",
+        "author": "Lalo Alcaraz",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/lacucaracha/2002/11/25",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Lalo Alcaraz",
+        "author": "",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/laloalcaraz/2001/03/27",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Overboard",
+        "author": "Chip Dunham",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/overboard/1990/08/20",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Phil Hands",
+        "author": "",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/phil-hands/2013/08/22",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Reply All",
+        "author": "Donna A. Lewis",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/replyall/2011/02/28",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Sticky Comics",
+        "author": "Christiann MacAuley",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/sticky-comics/2016/03/14",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Sunny Street",
+        "author": "Max Garcia and Sandra Barthauer",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/sunny-street/2005/02/14",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "The Academia Waltz",
+        "author": "Berkeley Breathed",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/academiawaltz/2003/12/08",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "The Adventures of Business Cat",
+        "author": "Tom Fonder",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/the-adventures-of-business-cat/2015/04/27",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    },
+    {
+        "title": "Ziggy",
+        "author": "Tom Wilson & Tom II",
+        "source": "gocomics.com",
+        "url": "https://www.gocomics.com/ziggy/1971/06/27",
+        "image": {
+            "selector": ".item-comic-image img",
+            "index": "0"
+        },
+        "first_comic": {
+            "selector": ".fa-backward",
+            "index": "0"
+        },
+        "last_comic": {
+            "selector": ".fa-forward",
+            "index": "0"
+        },
+        "previous_comic": {
+            "selector": ".fa-caret-left",
+            "index": "0"
+        },
+        "next_comic": {
+            "selector": ".fa-caret-right",
+            "index": "0"
+        },
+        "random_comic": {
+            "selector": ".gc-calendar-nav__select > a.btn-outline-secondary",
+            "index": "0"
+        }
+    }
+]
