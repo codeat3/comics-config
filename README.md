@@ -35,28 +35,28 @@ The config is in the format of the json, where each json element consists of the
 }
 ```
 
-**title**: A title of the comic
-**author**: An author of the comic
-**source**: Source - from where did we got this information
-**url**: The url which we can use to play with following selectors
-**image**: selectors on how to get the image
-**image.selector**: css selector on the page to fetch the image
-**image.index**: index on the above selector - where image can be found
-**first_comic**: selectors on how to get the link of the first comic
-**first_comic.selector**: css selector on the page to fetch the link of the first comic
-**first_comic.index**: index on the above selector - where link can be found
-**last_comic**: selectors on how to get the link of the last comic
-**last_comic.selector**: css selector on the page to fetch the link of the last comic
-**last_comic.index**: index on the above selector - where link can be found
-**previous_comic**: selectors on how to get the link of the previous comic
-**previous_comic.selector**: css selector on the page to fetch the link of the previous comic
-**previous_comic.index**: index on the above selector - where link can be found
-**next_comic**: selectors on how to get the link of the next comic
-**next_comic.selector**: css selector on the page to fetch the link of the next comic
-**next_comic.index**: index on the above selector - where link can be found
-**random_comic**: selectors on how to get the link of the random comic
-**random_comic.selector**: css selector on the page to fetch the link of the random comic
-**random_comic.index**: index on the above selector - where link can be found
+**title**: A title of the comic  
+**author**: An author of the comic  
+**source**: Source - from where did we got this information  
+**url**: The url which we can use to play with following selectors  
+**image**: selectors on how to get the image  
+**image.selector**: css selector on the page to fetch the image  
+**image.index**: index on the above selector - where image can be found  
+**first_comic**: selectors on how to get the link of the first comic  
+**first_comic.selector**: css selector on the page to fetch the link of the first comic  
+**first_comic.index**: index on the above selector - where link can be found  
+**last_comic**: selectors on how to get the link of the last comic  
+**last_comic.selector**: css selector on the page to fetch the link of the last comic  
+**last_comic.index**: index on the above selector - where link can be found  
+**previous_comic**: selectors on how to get the link of the previous comic  
+**previous_comic.selector**: css selector on the page to fetch the link of the previous comic  
+**previous_comic.index**: index on the above selector - where link can be found  
+**next_comic**: selectors on how to get the link of the next comic  
+**next_comic.selector**: css selector on the page to fetch the link of the next comic  
+**next_comic.index**: index on the above selector - where link can be found  
+**random_comic**: selectors on how to get the link of the random comic  
+**random_comic.selector**: css selector on the page to fetch the link of the random comic  
+**random_comic.index**: index on the above selector - where link can be found  
 
 ### If you want to contribute, how can check if you have correctly configured the CSS selectors?
 The steps are same as the one mentioned on [https://github.com/oseparovic/comic_selectors](https://github.com/oseparovic/comic_selectors), till the time we add proper testing tools for automatically validating the configs.
